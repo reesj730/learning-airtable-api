@@ -162,8 +162,8 @@ a:hover{
   background:linear-gradient(to right, rgb(30,30,30) 0%,rgb(38,38,38) 15%,rgb(38,38,38) 85%,rgb(30,30,30) 100%);
   width:400px;
   height:110px;
-  left:50%;
-  top:50%;
+  left: 700px;
+  top: 100px;
   margin:-55px 0 0 -200px;
   border-radius:110px;
   box-shadow:0 1px 0 #a98c4a,
